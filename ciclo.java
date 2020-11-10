@@ -1,11 +1,11 @@
 classe ciclo
 {
 
-public int incremento;
+public int incrementi;
 
-public int  ciclo(int incremento)
+public int  ciclo(int incrementi)
 {
-while(incremento == 10)
+while(incrementi == 10)
 {
 incremento++;
 }
