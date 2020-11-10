@@ -1,7 +1,7 @@
 classe ciclo
 {
 
-public int incrementi;
+private string  numero;
 
 public int  ciclo(int incrementi)
 {
