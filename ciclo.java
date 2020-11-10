@@ -7,7 +7,7 @@ public int  ciclo(int incrementi)
 {
 while(incrementi == 10)
 {
-incremento++;
+incremento=incremento+ 1;;
 }
 }
 return incremento;
